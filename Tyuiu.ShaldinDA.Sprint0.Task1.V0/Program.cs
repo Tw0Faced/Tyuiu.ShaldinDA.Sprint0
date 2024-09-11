@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-    namespace Tyuiu.ShaldinDA.Sprint0.Task1.V0
+namespace Tyuiu.ShaldinDA.Sprint0.Task1.V0
 {
     internal class Program
     {
